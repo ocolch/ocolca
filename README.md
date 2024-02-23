@@ -1,0 +1,2 @@
+# ocolca
+tea.xyz tesnet
